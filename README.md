@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manjoot!</h1>
-<h3 align="center">I'm a Software Engineer at Secret Escapes who works with Salesforce and API integrations, looking to delve into the web development world.</h3>
+<h3 align="center">A Software Engineer working with Salesforce and API integrations, looking to delve into the web development world.</h3>
 
 - 🔭 I’m currently working on [manjoot.com 2.0](https://github.com/manjoot/manjoot-site)
 
