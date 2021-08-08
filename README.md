@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript and AWS**
 
-- 📫 How to reach me **manjoot@hotmail.com**
+- 📫 Get in touch at **manjoot@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
