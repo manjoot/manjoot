@@ -1,5 +1,5 @@
 <h3>Hi 👋, I'm Manjoot.</h1>
-<h4 align>A Software Engineer working with Salesforce and API integrations, with a strong interest in the web world..</h3>
+<h4 align>A Software Engineer working with Salesforce and API integrations, with a strong interest in the web development world.</h3>
 
 - 🔭 I’m currently working on [manjoot.com 2.0](https://github.com/manjoot/manjoot-site) and [anibinge](https://github.com/manjoot/anibinge).
 
