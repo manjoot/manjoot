@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [manjoot.com 2.0](https://github.com/manjoot/manjoot-site) and [anibinge](https://github.com/manjoot/anibinge).
 
-- 🌱 I’m currently learning **TypeScript and AWS**.
+- 🌱 I’m currently learning **TypeScript** and **AWS**.
 
 - 📫 Get in touch at **manjoot@hotmail.com**.
 
