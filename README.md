@@ -1,9 +1,6 @@
-<h3>Hi 👋, I'm Manjoot.</h1>
-<h4 align>A Software Engineer with a strong interest in the web development world.</h3>
+<h4 align>A Software Engineer based near London, who loves all things web 🚀</h3>
 
-- 🔭 I’m currently working on [manjoot.com 2.0](https://github.com/manjoot/manjoot-site) and [anibinge](https://github.com/manjoot/anibinge).
-
-- 🌱 I’m currently learning **TypeScript** and **AWS**.
+- 🔭 I’m currently working on [anibinge](https://github.com/manjoot/anibinge).
 
 - 📫 Get in touch at **manjoot@hotmail.com**.
 
