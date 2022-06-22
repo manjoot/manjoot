@@ -1,6 +1,6 @@
 <h4 align>A Software Engineer based near London, who loves all things web 🚀</h3>
 
-- 🔭 I’m currently working on [anibinge](https://github.com/manjoot/anibinge).
+- 🔭 I’m currently taking a break 🍃
 
 - 📫 Get in touch at **manjoot@hotmail.com**.
 
