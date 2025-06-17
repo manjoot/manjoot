@@ -1,6 +1,6 @@
-<h4 align>A Software Engineer based near London, exploring the path to building products.</h3>
+<h4 align>A Software Engineer based near London, who's exploring the path to building products.</h3>
 
-- 💻 I’m currently consulting, working with SMEs to help them make sense of their data and optimise how they operate.
+- 💻 I’m currently consulting, working with SMEs to help them make sense of their tech, data and optimise how they operate.
 
 - 📫 Get in touch at **manjoot.com**.
 
