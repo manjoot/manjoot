@@ -1,8 +1,8 @@
-<h4 align>A Software Engineer based near London, who loves all things web.</h3>
+<h4 align>A Software Engineer based near London, exploring the path to building products.</h3>
 
-- 🍃 I’m currently tackling the green skills emergency at greenworkx.
+- 💻 I’m currently consulting, working with SMEs to help them make sense of their data and optimise how they operate.
 
-- 📫 Get in touch at **manjoot@hotmail.com**.
+- 📫 Get in touch at **manjoot.com**.
 
 <h4 align="left">Connect with me:</h3>
 <p align="left">
