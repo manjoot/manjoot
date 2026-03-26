@@ -1,6 +1,6 @@
 <h4 align>product-minded software engineer based in london</h3>
 
-- 💻 currently targeting roles working on problems that touch millions of people.
+- 💻 currently working on something.
 
 - 📫 manjoot.com
 
